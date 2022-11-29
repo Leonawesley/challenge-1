@@ -3,7 +3,7 @@
 ## Description
 
 Horiseon Marketing Services is consumer faced web application. Horiseon Marketing Services provide different types of services for the cuustomer to optimize their online business.
-There are 3 thypes services provided by Horiseon Marketing Services.
+There are 3 types of services provided by Horiseon Marketing Services.
 1. Search engine optimization
 2. Online reputation management
 3. social media marketing
